@@ -125,5 +125,5 @@ Triggers →  A trigger is a mechanism for declaring when the output for a windo
 
 Accumulation →  An accumulation mode specifies the relationship between multiple results that are observed for the same window. 
 
-
+More code to explain this an update coming...
 
