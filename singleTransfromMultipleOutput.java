@@ -45,8 +45,8 @@ public class single_transform_multiple_outputs {
 	final static TupleTag<String> startsWithBTag = new TupleTag<String>(){};
 
 	public static void main(String[] argvs) {
-		String aws_access_key_id = "AKIAZRGYLAEH3OYBUP5S";
-		String aws_secret_access_key = "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";
+		String aws_access_key_id = "************";
+		String aws_secret_access_key = "++++++++++++++++++++++++++";
 		String streamName = "test";
 		PipelineOptions options = PipelineOptionsFactory.create();
 		Pipeline p = Pipeline.create(options);
